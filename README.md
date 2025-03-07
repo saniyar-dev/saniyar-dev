@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Saniyar 👋
 I'm a 21 years old guy who fallows his childhood dream on making a difference.
 
 ## 📫 How to reach me:
@@ -6,19 +6,21 @@ I'm a 21 years old guy who fallows his childhood dream on making a difference.
 [![Gmail](https://img.shields.io/badge/saniyar.dev-grey?style=for-the-badge&logo=gmail&logoColor=white&logoSize=32&label=gmail&labelColor=0A66C2)](mailto:saniyar.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/saniyar_karami-grey?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=32&label=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/saniyar-karami-818771231/)
 
----
+## GitHub Stats
+<div align="center"><br>
+    <a href="https://github.com/saniyar-dev">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saniyar-dev&show_icons=true&theme=github_dark&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniyar-dev&layout=compact&langs_count=8&theme=github_dark&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saniyar-dev&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://github-readme-stats.vercel.app/api?username=saniyar-dev&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=saniyar-dev&theme=darcula&hide_border=true&background=FFFFFF00)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyar-dev&layout=compact&langs_count=10&hide=css,javascript&hide_border=true&bg_color=00000000&theme=darcula)
-
-![](https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif)
-
----
+## My stats
+<div align="center"><br>
+  <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+</div>
+<div align="center"<br>
+  <img src="https://profile-counter.glitch.me/saniyar-dev/count.svg" /> Visitors
+</div>
 
 ## Work Expriences:
 - SRE at [ArvanCloud](https://www.arvancloud.ir/en)
@@ -28,8 +30,3 @@ I'm a 21 years old guy who fallows his childhood dream on making a difference.
 ## Currently working on:
 - [k6 new HTTP APi phase 1 implementation](https://github.com/grafana/k6/issues/3038)
 
----
-
-
-VisitorCount:
-![VisitorCount](https://profile-counter.glitch.me/SmsS4/count.svg)
