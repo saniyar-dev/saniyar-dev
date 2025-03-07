@@ -29,4 +29,5 @@ I'm a 21 years old guy who fallows his childhood dream on making a difference.
 
 ## Currently working on:
 - [k6 new HTTP APi phase 1 implementation](https://github.com/grafana/k6/issues/3038)
+- [kubectl diff display pruned resouces](https://github.com/kubernetes/kubectl/issues/1725)
 
