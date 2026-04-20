@@ -1,5 +1,5 @@
 ## Hi there, I'm Saniyar 👋
-I'm a 21 years old guy who fallows his childhood dream on making a difference.
+I'm a 22 years old guy who fallows his childhood dream on making a difference.
 
 ## 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/%40saniyar--krmi-grey?style=for-the-badge&logo=telegram&logoColor=white&logoSize=32&label=telegram&labelColor=0A66C2)](https://t.me/saniyar_krmi)
